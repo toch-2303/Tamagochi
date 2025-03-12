@@ -1,5 +1,6 @@
 package tamagochi;
 
+
 import java.util.Random;
 
 public class IslaAventura {
